@@ -9,10 +9,10 @@
 
 # 仓库地址，填写 Fork 后的仓库地址，支持 Gitee / GitHub
 # 作者 Gitee 仓库地址 https://gitee.com/xiejiahe/nav
-gitRepoUrl: https://github.com/lcblhsl97/navPrivate
+# gitRepoUrl: https://github.com/lcblhsl97/navPrivate
 
 # Fork 部署分支
-branch: main
+# branch: main
 
 # 只有GitHub pages用户需要设置为true， 其他建议设置为 false
 hashMode: false
@@ -43,4 +43,4 @@ mailConfig:
 # 默认主仓库，当仓库作为私密，上传的图片是无法访问的，需要转移到公开仓库
 # 仓库必须自己提前创建，如果打算长期使用本软件，建议每个人都创建一个新的仓库作为图片存储
 # e.g 'https://github.com/xjh22222228/image?branch=main'
-imageRepoUrl: 'https://github.com/xjh22222228/image?branch=main'
+imageRepoUrl: ''
