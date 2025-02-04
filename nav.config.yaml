@@ -18,7 +18,7 @@ branch: main
 hashMode: false
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: ''
+address: 'https://nav-private.vercel.app/'
 
 # 自有部署后台登录密码
 password: ls120015
